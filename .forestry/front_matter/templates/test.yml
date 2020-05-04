@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: label
+pages:
+- _posts/doc.md
